@@ -15,7 +15,7 @@ Para rodar este projeto, você precisará ter instalado em sua máquina:
 - [PostgreSQL](https://www.postgresql.org/)
 - [Git](https://git-scm.com/)
 
-## 🚀 Configuração e Execução
+## Configuração e Execução
 
 1. **Clone o repositório:**
    ```bash
